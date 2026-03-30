@@ -1,6 +1,6 @@
 # TPC-AI-Literacy-Job-Postings
 
-# Supplementary Materials: Mapping AI Literacy Expectations in Technical and Professional Communication: Evidence from 137 AI-Referenced Job Postings
+# Supplementary Materials
 
 
 This repository contains the supplementary appendices for the following research article:
@@ -9,7 +9,7 @@ This repository contains the supplementary appendices for the following research
 
 ## Appendices
 
-- **Appendix A** – Representative position title keywords used in data collection across six TPC functional categories.
+- **Appendix A** – Search Keywords Used in Data Collection.
 - **Appendix B** – Sample Terms and Phrases from Job Postings Mapped to AI Literacy Dimensions.
 
 ## Citation
@@ -20,8 +20,8 @@ If you use or reference these materials, please cite the original article:
 
 ## Contact
 
-- Shijie Liu – [你的邮箱]
-- Jianfen Chen – [陈老师的邮箱]
+- Shijie Liu – [ORCID: 0009-0006-2674-6494]
+- Jianfen Chen – [ORCID: 0000-0002-7529-1135]
 
 ## License
 
