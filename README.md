@@ -16,7 +16,7 @@ This repository contains the supplementary appendices for the following research
 
 If you use or reference these materials, please cite the original article:
 
-> Liu, S., & Chen, J. (2026). Mapping AI Literacy Expectations in Technical and Professional Communication: Evidence from 137 AI-Referenced Job Postings. *IEEE Transactions on Professional Communication*.
+> Liu, S., & Chen, J. (2026). Mapping AI Literacy Expectations in Technical and Professional Communication: Evidence from 137 AI-Referenced Job Postings. *IEEE Transactions on Professional Communication*, 69(2), 148-167.
 
 ## Contact
 
